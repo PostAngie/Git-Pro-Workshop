@@ -1,3 +1,3 @@
-function cheer(person) {
-  console.log("Javascript");
+function cheer(team) {
+  console.log("Lassie1");
 }
