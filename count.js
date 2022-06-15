@@ -1,5 +1,5 @@
-function count (number) {
-    console.log(number);
+function count (person, birthdate) {
+    console.log(`${person} was born in: ${birthdate}`);
 }
 
-count(12);
+count('Gabi', '1975');
