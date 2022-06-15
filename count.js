@@ -1,3 +1,3 @@
-function count () {
-    console.log('47');
+function count (person) {
+    console.log(person + '26');
 }
