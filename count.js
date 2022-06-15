@@ -1,3 +1,5 @@
-function count (person) {
-    console.log(person + '26');
+function count (number) {
+    console.log(number);
 }
+
+count(12);
