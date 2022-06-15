@@ -1,3 +1,3 @@
-function cheer() {
+function cheer(team) {
   console.log("Online");
 }
